@@ -1,4 +1,4 @@
-	# Dev2Dev - Develop a CAP application in less then an hour
+# Dev2Dev - Develop a CAP application in less then an hour
 
 ## Pre-requisites
 - Install latest version of nodejs: https://nodejs.org/en/download/
