@@ -162,8 +162,8 @@ This cds defines an odata service called `RatingService`. It contains a projecti
 
 Let's add some data to our database
 - Create a new folder in the `db/`folder: `db/data/`
-- Create a new file: `db/data/com.flexso.dev2dev.Beers.csv`. Copy the contents of [this file](./db/data/com.flexso.dev2dev.Beers.csv) to your own file.
-- Create another file: `db/data/com.flexso.dev2dev.Ratings.csv`. Copy the contents of [this file](./db/data/com.flexso.dev2dev.Ratings.csv) to your own file.
+- Create a new file: `db/data/com.flexso.dev2dev.Beers.csv`. Copy the contents of [this file](./com.flexso.dev2dev.Beers.csv) to your own file.
+- Create another file: `db/data/com.flexso.dev2dev.Ratings.csv`. Copy the contents of [this file](./com.flexso.dev2dev.Ratings.csv) to your own file.
 
 The `cds watch` command should have automatically refreshed the application. Open the odata service again, you should get data from the service now.
 
